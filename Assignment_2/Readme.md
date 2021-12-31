@@ -4,7 +4,7 @@
 
 ### Submitted by: Dhruv Doshi (dh722257@dal.ca) 
 
-<div align="center">
+<div align="center" style="color:blue;">
 <strong><b>PAPER REVIEWED: AN APPROACH FOR THE SECURE MANAGEMENT OF HYBRID CLOUD–EDGE ENVIRONMENTS </b></strong>
 </div>
 
